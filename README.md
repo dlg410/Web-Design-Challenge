@@ -1,5 +1,7 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
+* Diego Gonzalez - [@dlg410](https://github.com/dlg410)
+
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
@@ -125,4 +127,4 @@ Small screen:
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+<!-- Trilogy Education Services © 2019. All Rights Reserved. -->
